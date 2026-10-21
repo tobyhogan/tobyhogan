@@ -1,1 +1,1 @@
-Toby Hogan | React, Web, Full-stack
+React, Web, Full-stack
