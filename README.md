@@ -1,5 +1,5 @@
 
-React, Web, Full-stack <br>
+React.js, Web, Full-stack <br>
 Development, Design
 
 <hr>
