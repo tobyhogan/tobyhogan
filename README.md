@@ -5,4 +5,4 @@ Development, Design
 
 <hr>
 
-Development Process: https://github.com/tobyhogan/profile-resources/blob/main/DEVELOPMENT-PROCESS.md
+Development Process: https://tobyhogan.github.io/profile-resources/DEVELOPMENT-PROCESS.md
